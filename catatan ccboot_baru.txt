@@ -1,0 +1,13 @@
+1. Backup dulu settingan ccboot yang dimiliki (buka tools > backup settings)
+2. install ccboot 2019 0917 menggunakan installer
+3. setelah selesai, hilangkan centang launch ccboot, finish
+4. buka crack yang dari folder Online\CCBoot_20240302.rar
+5. Pastekan ke dalam folder ccboot, lalu buka folder _Update_blabla, lalu buka bat update, pilih aja yang ccboot online (opsi 1)
+6. Restart
+7. Setelah itu, di dalam ccboot, di tombol yang gede, ada tombol Login, klik
+8. Masukkan id password seperti yang kukirim
+9. Lengkapi data warnet dulu di dalam "Update info" seperti nama warnet dan email
+10. Save, lalu copy key ccbootnya
+11. Buka ccboot lalu about > registration
+12. Masukkan key yang udah dicopy td
+13. jika sudah sukses teraktivasi, nama warnet akan muncul
