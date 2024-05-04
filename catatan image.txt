@@ -1,0 +1,8 @@
+Cara pakai image :
+xLite10 = Windows 10
+xLite11 = Windows 11
+
+1. Ekstrak xLite10 ke folder
+2. kalau udah, ekstrak juga yang ccbootisdpnp
+3. pastikan base.vhd dan base_ccbootisdpnp.vhd itu satu folder, ga dipisah
+4. di dalam ccboot > image manager, tambahkan base_ccbootisdpnp.vhd aja sebagai image utama, yang base.vhd gausah diutak atik
